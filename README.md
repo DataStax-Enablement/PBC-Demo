@@ -37,13 +37,13 @@ to YOUR fork.
 
 ```
 .
-├── Bare-OS-Install
+├── Bare-OS-Lab
 │       └── writeup.txt
-├── Capstone
+├── Capstone-Project
 │       └── writeup.txt
-├── Cluster-Confusion
+├── Cluster-Confusion-Lab
 │       └── writeup.txt
-├── Disfigured-Data
+├── Disfigured-Data-Lab
 │       ├── JMX
 │       ├── schema.txt
 │       └── writeup.txt
